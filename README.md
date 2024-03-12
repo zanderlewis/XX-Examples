@@ -1,2 +1,2 @@
-# XX-Examples
-Collection of XX examples written in XX.
+# Diamondback Examples
+Collection of Diamondback examples written in Diamondback.
